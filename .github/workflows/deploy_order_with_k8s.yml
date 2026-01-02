@@ -48,3 +48,4 @@ jobs:
           kubectl rollout restart deployment ordersystem-backend -n johan
         # kubectl apply -f ./2.ordersystem/k8s/k8s-ordersystem/depl_svc.yml
         ##
+        ##
